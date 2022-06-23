@@ -15,3 +15,7 @@ be one of the following ranges- (0 – 2), (4 – 6), (8 – 12), (15 – 20), (
 because of factors like makeup, lighting, obstructions, and facial expressions. And so, we make this a
 classification problem instead of making it one of regression. The software will detect faces, classify them
 into male/female, classify it into one of eight age ranges and put the result on an image, and display it.
+
+We use Adience Benchmark Gender And Age Classification dataset in this project.
+You can download the data set through the given link:
+https://www.kaggle.com/datasets/ttungl/adience-benchmark-gender-and-age-classification
